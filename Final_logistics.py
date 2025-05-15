@@ -6,7 +6,7 @@ import time
 
 # Set page config for a cleaner appearance
 st.set_page_config(
-    page_title="Courier Zone Briefing",
+    page_title="Logistics Delivery Conditions",
     page_icon="🚚",
     layout="centered"
 )
@@ -16,7 +16,7 @@ OPENWEATHER_API_KEY = "bc76588823fc2b0ff58485ed9196da3c"
 NEWS_API_KEY = "0d9c613f7217408782b7b6e6d9ec6dc5"
 
 # App title and description with styling
-st.title("📍 Courier Zone Briefing")
+st.title("Logistics Delivery Conditions")
 st.markdown("""
     <style>
     .reportview-container .markdown-text-container {
