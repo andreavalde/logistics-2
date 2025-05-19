@@ -13,7 +13,7 @@ st.set_page_config(page_title="Delivery Dashboard", layout="wide")
 st.title("📦 Delivery Driver Dashboard")
 
 # API keys from previous code (inserted explicitly)
-openweather_api_key = "0d9c613f7217408782b7b6e6d9ec6dc5"
+openweather_api_key = "bc76588823fc2b0ff58485ed9196da3c "
 news_api_key = "0d9c613f7217408782b7b6e6d9ec6dc5"  # Example; replace with real key if different
 
 # --- Functions ---
